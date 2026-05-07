@@ -1,6 +1,6 @@
 
 import './App.css'
-import Verification from './verification' 
+import Verification from './Verification' 
 
 function App() {
  
