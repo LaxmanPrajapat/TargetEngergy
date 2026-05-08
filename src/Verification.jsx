@@ -18,12 +18,12 @@ const internsData = {
     status: "Verified",
   },
 
-  "TE102": {
-    name: "Rahul Sharma",
-    role: "Frontend Developer Intern",
-    project: "Energy Management Portal",
-    duration: "2 Months",
-    skills: "React, Tailwind CSS",
+ "TE102": {
+    name: "Lokendra Singh",
+    role: "Data Analysis Executive Intern",
+    project: "Solar Energy Dashboard",
+    duration: "1 Month",
+    skills: "React, Excel, SQL, Power BI",
     status: "Verified",
   },
 };
